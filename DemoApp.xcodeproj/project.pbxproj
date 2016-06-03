@@ -13,6 +13,7 @@
 		06A4CDEA1D01BEC9006440ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06A4CDE81D01BEC9006440ED /* Main.storyboard */; };
 		06A4CDEC1D01BEC9006440ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06A4CDEB1D01BEC9006440ED /* Assets.xcassets */; };
 		06A4CDEF1D01BEC9006440ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06A4CDED1D01BEC9006440ED /* LaunchScreen.storyboard */; };
+		06A4CDF81D01DE37006440ED /* ghjghjghViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A4CDF71D01DE37006440ED /* ghjghjghViewController.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		06A4CDEB1D01BEC9006440ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		06A4CDEE1D01BEC9006440ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		06A4CDF01D01BEC9006440ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06A4CDF61D01DE37006440ED /* ghjghjghViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ghjghjghViewController.h; sourceTree = "<group>"; };
+		06A4CDF71D01DE37006440ED /* ghjghjghViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ghjghjghViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				06A4CDED1D01BEC9006440ED /* LaunchScreen.storyboard */,
 				06A4CDF01D01BEC9006440ED /* Info.plist */,
 				06A4CDDF1D01BEC9006440ED /* Supporting Files */,
+				06A4CDF61D01DE37006440ED /* ghjghjghViewController.h */,
+				06A4CDF71D01DE37006440ED /* ghjghjghViewController.m */,
 			);
 			path = DemoApp;
 			sourceTree = "<group>";
@@ -152,6 +157,7 @@
 				06A4CDE71D01BEC9006440ED /* ViewController.m in Sources */,
 				06A4CDE41D01BEC9006440ED /* AppDelegate.m in Sources */,
 				06A4CDE11D01BEC9006440ED /* main.m in Sources */,
+				06A4CDF81D01DE37006440ED /* ghjghjghViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
