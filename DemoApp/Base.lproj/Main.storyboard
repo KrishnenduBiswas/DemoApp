@@ -68,8 +68,15 @@
                                 <color key="backgroundColor" red="0.15580910140000001" green="0.76107627470000005" blue="0.15266741170000001" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                             <view contentMode="scaleToFill" id="AFZ-Oc-8Jl">
-                                <rect key="frame" x="45" y="69" width="240" height="128"/>
+                                <rect key="frame" x="48" y="84" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" id="rbY-JG-pZp">
+                                        <rect key="frame" x="-8" y="15" width="240" height="128"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    </view>
+                                </subviews>
                                 <color key="backgroundColor" red="0.10938569450000001" green="0.32038366309999999" blue="0.87791982319999995" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                         </subviews>
@@ -78,7 +85,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oub-ga-YyY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="674" y="280"/>
+            <point key="canvasLocation" x="592" y="258"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="fdv-4c-4er">
@@ -104,7 +111,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vu0-jK-fja" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="866" y="320"/>
+            <point key="canvasLocation" x="809" y="293"/>
         </scene>
     </scenes>
 </document>
