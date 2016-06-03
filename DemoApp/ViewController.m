@@ -27,7 +27,7 @@
     NSLog(@"Hello World");
     
     
-    NSLog(@"-i----bgghhgg------sdfsdfsdf---------fdff");
+    NSLog(@"-----------sdfsdfsdf---------fdff");
     
     
     //fhjfhjfhj
